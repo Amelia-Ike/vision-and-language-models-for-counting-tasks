@@ -1,4 +1,4 @@
-### vision-and-language-models-for-counting-tasks
+## Vision and Language Models for Counting Tasks: A Data Augmentation Approach Using Large Language Models
 
 Vision and language (V&L) models have been proven by previous studies to struggle with the task of counting entities in an image. We investigate how Large Language Models (LLMs) can boost the performance of V&L models by expanding the text input provided to them. Through prompt engineering, we make an LLM produce additional inputs that have an entailment relationship with the original inputs, and this data-augmented dataset is then provided to the V&L model. 
 
